@@ -1,2 +1,2 @@
 # Transformer-Horror
-Generating horror stories using GPT-2
+Generating stories using GPT-2
